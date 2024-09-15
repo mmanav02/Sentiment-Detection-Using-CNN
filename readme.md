@@ -9,4 +9,4 @@ Steps to run:
 
 A sample:
 
-![Sample](image/image.png)
+![Sample](images/image.png)
